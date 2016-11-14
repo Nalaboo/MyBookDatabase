@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_alta_llibre"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.example.pr_idi.mydatabaseexample.AltaLlibre">
+
+    <TextView
+        android:text="Valoració Personal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/valoracioPersonal"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginBottom="42dp" />
+
+    <TextView
+        android:text="Categoria"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/categoria"
+        android:layout_above="@+id/valoracioPersonal"
+        android:layout_alignEnd="@+id/editorial"
+        android:layout_marginBottom="52dp" />
+
+    <TextView
+        android:text="Editorial"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/editorial"
+        android:layout_above="@+id/categoria"
+        android:layout_alignEnd="@+id/autor"
+        android:layout_marginBottom="63dp" />
+
+    <TextView
+        android:text="Any Publicació"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/anyPublicacio"
+        android:layout_above="@+id/editorial"
+        android:layout_alignStart="@+id/editorial"
+        android:layout_marginBottom="54dp" />
+
+    <TextView
+        android:text="Autor"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/autor"
+        android:layout_above="@+id/anyPublicacio"
+        android:layout_alignParentStart="true"
+        android:layout_marginBottom="55dp" />
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:inputType="textPersonName"
+        android:ems="10"
+        android:id="@+id/editTextTitol"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginTop="11dp" />
+
+    <TextView
+        android:text="Títol"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/titol"
+        android:layout_alignBaseline="@+id/editTextTitol"
+        android:layout_alignBottom="@+id/editTextTitol"
+        android:layout_alignEnd="@+id/autor" />
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:inputType="textPersonName"
+        android:ems="10"
+        android:id="@+id/editTextAutor"
+        android:layout_alignBottom="@+id/autor"
+        android:layout_alignStart="@+id/editTextTitol"
+        android:layout_marginStart="11dp" />
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:inputType="textPersonName"
+        android:ems="10"
+        android:layout_above="@+id/editorial"
+        android:layout_alignParentEnd="true"
+        android:layout_marginBottom="29dp"
+        android:id="@+id/editTextAnyP" />
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:inputType="textPersonName"
+        android:ems="10"
+        android:layout_below="@+id/editTextAnyP"
+        android:layout_alignStart="@+id/editTextAnyP"
+        android:id="@+id/editTextEditorial" />
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:inputType="textPersonName"
+        android:ems="10"
+        android:layout_alignTop="@+id/categoria"
+        android:layout_alignStart="@+id/editTextEditorial"
+        android:id="@+id/editTextCategoria" />
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:inputType="textPersonName"
+        android:ems="10"
+        android:layout_below="@+id/editTextCategoria"
+        android:layout_alignParentEnd="true"
+        android:layout_marginTop="25dp"
+        android:id="@+id/editTextValoracioP" />
+
+    <Button
+        android:text="Add"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/addButton"
+        android:onClick="onClick"
+        android:layout_below="@+id/editTextEditorial"
+        android:layout_toStartOf="@+id/editTextEditorial" />
+</RelativeLayout>

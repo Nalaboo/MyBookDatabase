@@ -3,57 +3,174 @@
 
     <item
         is-multidex="true"
-        jar="C:\Users\Maria\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.1\support-annotations-22.2.1.jar"
+        jar="C:\Users\Maria\Desktop\MyBookDatabase\MyBookDatabase\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="22.0.1"
-        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
-        <dex dex="C:\Users\Maria\Desktop\MyBookDatabase\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-22.2.1_8dee3f15bb4bd746c65e53145e4585bcbaf480e9\classes.dex" />
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="C:\Users\Maria\Desktop\MyBookDatabase\MyBookDatabase\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.0.0_181b2f2c5235b4d3cfe2ba963b04df1dce604011\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\Maria\Desktop\MyBookDatabase\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\libs\internal_impl-22.2.1.jar"
+        jar="C:\Users\Maria\Desktop\MyBookDatabase\MyBookDatabase\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
         jumboMode="true"
         optimize="true"
         revision="22.0.1"
-        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
-        <dex dex="C:\Users\Maria\Desktop\MyBookDatabase\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-22.2.1_267cfcc7db76b42708048199ebfe16da45aa185a\classes.dex" />
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="C:\Users\Maria\Desktop\MyBookDatabase\MyBookDatabase\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_bc340a9545edf9688ff571af287c8adda8d2da78\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\Maria\Desktop\MyBookDatabase\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\classes.jar"
+        jar="C:\Users\Maria\Desktop\MyBookDatabase\MyBookDatabase\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="22.0.1"
-        sha1="f8efd0096475e0daf054267b61544e10dc776503">
-        <dex dex="C:\Users\Maria\Desktop\MyBookDatabase\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-22.2.1_8f5178d3b18ad9d7a9a3f0320ad2ca54f747ae89\classes.dex" />
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="C:\Users\Maria\Desktop\MyBookDatabase\MyBookDatabase\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.0.0_e8f361a617e563184c68c450867ad90df3b82364\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\Maria\Desktop\MyBookDatabase\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jar="C:\Users\Maria\Desktop\MyBookDatabase\MyBookDatabase\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.0\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="22.0.1"
-        sha1="f2840a941d058088efd1d605ac40dd3b7f54d562">
-        <dex dex="C:\Users\Maria\Desktop\MyBookDatabase\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_87dbf35d733fbc68085a838e7f91634f62edd154\classes.dex" />
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="C:\Users\Maria\Desktop\MyBookDatabase\MyBookDatabase\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.0.0_f10c9d1280c5de25abab25aa141fa1b169c639bb\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\Maria\Desktop\MyBookDatabase\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jar="C:\Users\Maria\Desktop\MyBookDatabase\MyBookDatabase\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
         jumboMode="true"
         optimize="true"
         revision="22.0.1"
-        sha1="2ebe2d6f64195e8e46389dca439d5159d47546aa">
-        <dex dex="C:\Users\Maria\Desktop\MyBookDatabase\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_44c038b20116fbb26a9089ac8a0bfbdb66bed374\classes.dex" />
+        sha1="ebd90563f63d600343b06060b8faeeb2bbb83ab2">
+        <dex dex="C:\Users\Maria\Desktop\MyBookDatabase\MyBookDatabase\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_5c806bd3971bd796ec06515e804d7e83afe60479\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\Maria\Desktop\MyBookDatabase\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.1\jars\classes.jar"
+        jar="C:\Users\Maria\Desktop\MyBookDatabase\MyBookDatabase\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.0\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="22.0.1"
-        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
-        <dex dex="C:\Users\Maria\Desktop\MyBookDatabase\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-22.2.1_abce1f88a9acf0d84195f3590c5f2d718e86546d\classes.dex" />
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="C:\Users\Maria\Desktop\MyBookDatabase\MyBookDatabase\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.0.0_55db7eb2cd28b6808f2653bddf4ba6efc8ffa633\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Maria\Desktop\MyBookDatabase\MyBookDatabase\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="C:\Users\Maria\Desktop\MyBookDatabase\MyBookDatabase\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.0.0_f734e5c407493073ec1f4549ebdee43d64e179f4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Maria\Desktop\MyBookDatabase\MyBookDatabase\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Maria\Desktop\MyBookDatabase\MyBookDatabase\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.0.0_0a478eea28281c7058401819985fa8fe644c3bce\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Maria\Desktop\MyBookDatabase\MyBookDatabase\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="C:\Users\Maria\Desktop\MyBookDatabase\MyBookDatabase\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_5d8e62dd234ac4648ee5079af6eea671d69f4bd6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Maria\Desktop\MyBookDatabase\MyBookDatabase\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="C:\Users\Maria\Desktop\MyBookDatabase\MyBookDatabase\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.0.0_30aebd46eed1b5e48d612d4d964e8542b000a0f9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Maria\Desktop\MyBookDatabase\MyBookDatabase\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="5a55afa9bedc69c2f29ea136f14b354b0b194e5e">
+        <dex dex="C:\Users\Maria\Desktop\MyBookDatabase\MyBookDatabase\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_32776d94a43de05c9d1bae47499856456ffa2245\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Maria\Desktop\MyBookDatabase\MyBookDatabase\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="C:\Users\Maria\Desktop\MyBookDatabase\MyBookDatabase\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.0.0_2bc6703b7794ee36ca2f40ff803c844a66cf17f4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Maria\Desktop\MyBookDatabase\MyBookDatabase\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="C:\Users\Maria\Desktop\MyBookDatabase\MyBookDatabase\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_b35232f4c8959cf072578e6477affe949ea2ee34\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Maria\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.0\support-annotations-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="C:\Users\Maria\Desktop\MyBookDatabase\MyBookDatabase\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.0.0_6006ff21ef57e055c709a32b28bd4b965658249c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Maria\Desktop\MyBookDatabase\MyBookDatabase\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="C:\Users\Maria\Desktop\MyBookDatabase\MyBookDatabase\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_c4eafcdd46fe392d33e9d38746888b578116e8a0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Maria\Desktop\MyBookDatabase\MyBookDatabase\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="C:\Users\Maria\Desktop\MyBookDatabase\MyBookDatabase\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.0.0_d000a7710e3008dc48013c64db4ee01998947ef9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Maria\Desktop\MyBookDatabase\MyBookDatabase\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="C:\Users\Maria\Desktop\MyBookDatabase\MyBookDatabase\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_4a0b2adf0ff2f6e32645841c0edbfbb16aaf621f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Maria\Desktop\MyBookDatabase\MyBookDatabase\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="5e497d60f0cb6ce87c458ac5420a46d0fed49bd0">
+        <dex dex="C:\Users\Maria\Desktop\MyBookDatabase\MyBookDatabase\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-25.0.0_b9737ac6bfeecca6e85ad568a505a3682b54b3d3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Maria\Desktop\MyBookDatabase\MyBookDatabase\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="8a372c4191f80489770a231f7be4820b204b886a">
+        <dex dex="C:\Users\Maria\Desktop\MyBookDatabase\MyBookDatabase\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-25.0.0_65986b4fe0212594bcfe39b5866f7dcca6b55c91\classes.dex" />
     </item>
 
 </items>
